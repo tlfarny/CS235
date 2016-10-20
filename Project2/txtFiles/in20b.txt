@@ -1,0 +1,4 @@
+If debugging Is the 
+process of removing bugs.
+Then programming must be the
+process of putting them in.
